@@ -8,7 +8,7 @@
   <li> React is used to build single page applications.</li>
   <li> React allows us to create reusable UI components.</li>
 </ul>
-## Create React App:
+## Create Slack-clone:
 ### Pre-Requisite
 <ul>
   <li>Install NodeJS - head to the <a href="https://nodejs.org/en/">link</a> and then install recomended for most user</li>
@@ -16,11 +16,13 @@
   <li> open terminal and run (npm install) </li>
 </ul>
 ### Seting Up environment
-```
-git status
-git add
-git commit
-```
+Open VS code, head to terminal and run following commands-
+- [] npm install -g create-react-app
+- [] npx create-react-app slack-clone
+- [] cd slack-clone
+- [] npm start
+ <p>A new browser window will pop up with your newly created React App! If not, open your browser and type <b>localhost:3000</b> in the address bar.</p>
+
 
 
  
