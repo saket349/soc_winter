@@ -54,7 +54,7 @@ Open VS code, head to terminal and run following commands-
 </ul>
 
 <hr>
-<strong>Happy learning</strong>
+ <centre>Happy learning </centre>
  
 
  
