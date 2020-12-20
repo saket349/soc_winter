@@ -54,7 +54,7 @@ Open VS code, head to terminal and run following commands-
 </ul>
 
 <hr>
-<h3 align="center"> Happy Coding and a Merry Christmas !</h3>
+<h3 align="center"> Happy Coding and a Merry Christmas ! :santa:</h3>
  
 
 
