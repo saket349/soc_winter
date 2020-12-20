@@ -9,7 +9,7 @@
 <h2>Create Slack-clone:</h2>
 <h3>Prerequisites</h3>
 <p>A basic idea of reactjs and javascript is required. Need to have some coding background. All you need is a lot of dedication and enthusiasm, need to be calm and patient while your code gives an error, and have a learning attitude.<br>
-(to get an idea of what react is => refer <a href="https://www.w3schools.com/react//">w3school- react tutorial</a>)</p>
+(to get an idea of what react is :arrorw: refer <a href="https://www.w3schools.com/react//">w3school- react tutorial</a>)</p>
 
 <h3> Installation </h3>
 <ul>
