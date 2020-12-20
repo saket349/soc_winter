@@ -9,13 +9,18 @@
   <li> React allows us to create reusable UI components.</li>
 </ul>
 ## Create React App:
-### react environment setup
+### Pre-Requisite
 <ul>
   <li>Install NodeJS - head to the <a href="https://nodejs.org/en/">link</a> and then install recomended for most user</li>
   <li>Install VSCode - <a href="https://code.visualstudio.com/download">link</a></li>
-  <li> `git status` </li>
-  
+  <li> open terminal and run (npm install) </li>
 </ul>
+### Seting Up environment
+```
+git status
+git add
+git commit
+```
 
 
  
