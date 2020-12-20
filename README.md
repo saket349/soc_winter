@@ -1,9 +1,10 @@
 <h1>SOC Winter</h1>
 
-# Slack using reactJs and Firebase
+<h2> Slack using reactJs and Firebase</h2>
 
-# React
-<h3>
+<h3> React </h3>
+*React is a JavaScript library for building user interfaces.
+*React is used to build single page applications.
   
 The official website for [WnCC: www.wncc-iitb.org](https://www.wncc-iitb.org) resides in this repository.  
 This website is completely static and runs on jekyll.
