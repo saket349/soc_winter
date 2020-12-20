@@ -11,7 +11,8 @@
 <b>Create React App</b>
 <p>In order to learn and test React, you should set up a React Environment on your computer.</p>
 <ul>
-  <li>Install<a href="https://nodejs.org/en/">nodeJs</a></li>
+  <li>Install NodeJS - head to the <a href="https://nodejs.org/en/">link</a> and then install recomended for most user</li>
+  <li>Install VSCode - <a href="https://code.visualstudio.com/download">link</a></li>
 </ul>
 The official website for [WnCC: www.wncc-iitb.org](https://www.wncc-iitb.org) resides in this repository.  
 This website is completely static and runs on jekyll.
