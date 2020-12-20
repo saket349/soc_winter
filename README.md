@@ -41,12 +41,20 @@ Open VS code, head to terminal and run following commands-
 <ul>
   <li>Installation and setting up react environment (1 Day)</li>
   <li>Go through all provided tutorial (3 days)</li>
-  <li>Go through this video link and try to learn, undersatnd and then build your react-clone (4 days)</li>
-  <li>Add more css styling and editing</li>
-  <li>Host your cretion using firebase</li>
+  <li>Go through this video link and try to learn, undersatnd and then build your react-clone. Run and try to debugg basic errors yourself. (4 days)</li>
+  <li>Add furture css styling to your clone (1 day)</li>
+  <li>Grab a coffee  and Host your cretion using firebase</li>
 </ul>
 
+<h2>Remarks</h2>
+<ul>
+  <li>Understand the basic react structure before jumping to coding </li>
+  <li>If stuck somewhere or find it difficult to understand any code line try not to skip; instead, search and understand</li>
+  <li>You may refer to the community like stack overflow to get your queries resolved</li>
+</ul>
 
+<hr>
+<strong>Happy learning</strong>
  
 
  
