@@ -8,18 +8,19 @@
   <li> React is used to build single page applications.</li>
   <li> React allows us to create reusable UI components.</li>
 </ul>
-<b>Create React App</b>
-<p>In order to learn and test React, you should set up a React Environment on your computer.</p>
+## Create React App:
+### react environment setup
 <ul>
   <li>Install NodeJS - head to the <a href="https://nodejs.org/en/">link</a> and then install recomended for most user</li>
   <li>Install VSCode - <a href="https://code.visualstudio.com/download">link</a></li>
+  <li> open terminal and run : `npm install` to install npm </li>
+  
 </ul>
-The official website for [WnCC: www.wncc-iitb.org](https://www.wncc-iitb.org) resides in this repository.  
-This website is completely static and runs on jekyll.
 
-## Content: 
 
-### [Wiki](http://wncc-iitb.org/wiki/)  
+ 
+
+ 
 WnCC's own wiki. Containing wide-ranging articles, references and guides for everyone and especially beginners. Join the community, read, request, contribute and share!
 
 ### [SoC- Seasons of Code](http://wncc-iitb.org/soc/)  
