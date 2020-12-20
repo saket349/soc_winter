@@ -8,8 +8,7 @@
 </ul>
 <h2>Create Slack-clone:</h2>
 <h3>Prerequisites</h3>
-<p>A basic idea of reactjs and javascript is required. Need to have some coding background. All you need is a lot of dedication and enthusiasm, need to be calm and patient while your code gives an error, and have a learning attitude.<br>
-(to get an idea of what react is => refer <a href="https://www.w3schools.com/react//">w3school- react tutorial</a>)</p>
+<p>A basic idea of reactjs and javascript is required. Need to have some coding background. All you need is a lot of dedication and enthusiasm, need to be calm and patient while your code gives an error, and have a learning attitude.<br></p>
 
 <h3> Installation </h3>
 <ul>
@@ -28,8 +27,21 @@ Open VS code, head to terminal and run following commands-
 - [] cd slack-clone<br>
 - [] npm start<br>
 <p>A new browser window will pop up with your newly created React App! If not, open your browser and type <b>localhost:3000</b> in the address bar.</p><br>
-<p>Look in the slack-clone directory, and you will find an src folder. Inside the src folder, there is a file called App.js; this is where we will working on our slack-clone project. It returns the complete code to an empty tag (root). In this project we will be using  google firebase platform to gather data on back end and hosting. <a href="https://firebase.google.com/"> Firebase </a>is a platform developed by Google for creating mobile and web applications.</p> 
+<p>Look in the slack-clone directory, and you will find an src folder. Inside the src folder, there is a file called App.js; this is where we will working on our slack-clone project. It returns the complete code to an empty tag (root). In this project we will be using  google firebase platform to gather data on back end and hosting. <a href="https://firebase.google.com/"> Firebase </a>is a platform developed by Google for creating mobile and web applications.</p>
 
+<h3>Tutorial</h3>
+<ul>
+  <li> To get an idea of what react is => refer <a href="https://www.w3schools.com/react//"> link</a>)<br> </li>
+  <li> React video tutorial => refer <a href="https://youtu.be/dGcsHMXbSOA">link</a></li>
+  <li> Es6 basics => <a href="https://youtu.be/WZQc7RUAg18//">link</a>
+</ul>
+
+<h2>Procedure</h2>
+<ul>
+  <li>Installation and setting up react environment (1 Day)</li>
+  <li>Basic react tutorial (3 days)</li>
+  <li> </li>
+</ul>
 
  
 
