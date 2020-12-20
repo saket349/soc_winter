@@ -1,11 +1,18 @@
 <h1>SOC Winter</h1>
 
-<h2> Slack using reactJs and Firebase</h2>
+<h2> Slack using ReactJs and Firebase</h2>
 
 <h3> React </h3>
-- React is a JavaScript library for building user interfaces.
-- React is used to build single page applications.
-  
+<ul>
+  <li> React is a JavaScript library for building user interfaces.</li>
+  <li> React is used to build single page applications.</li>
+  <li> React allows us to create reusable UI components.</li>
+</ul>
+<b>Create React App</b>
+<p>In order to learn and test React, you should set up a React Environment on your computer.</p>
+<ul>
+  <li>Install<a href="https://nodejs.org/en/">nodeJs</a></li>
+</ul>
 The official website for [WnCC: www.wncc-iitb.org](https://www.wncc-iitb.org) resides in this repository.  
 This website is completely static and runs on jekyll.
 
