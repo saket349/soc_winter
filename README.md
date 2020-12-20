@@ -1,6 +1,4 @@
-<h1>SOC Winter</h1>
-
-<h2> Slack using ReactJs and Firebase</h2>
+<h2> Slack Clone using ReactJs and Firebase</h2>
 
 <h3> React </h3>
 <ul>
@@ -10,7 +8,9 @@
 </ul>
 <h2>Create Slack-clone:</h2>
 <h3>Prerequisites</h3>
-<p>Basic idea of reactjs and javascript is required. Need to have some coding backgroung. Them all you need is a lot of dedication and enthusiasm, need to be calm and patient while your code gives error and must have a learning attitude.</p>
+<p>A basic idea of reactjs and javascript is required. Need to have some coding background. All you need is a lot of dedication and enthusiasm, need to be calm and patient while your code gives an error, and have a learning attitude.<br>
+(to get an idea of what react is? refer <a href="https://www.w3schools.com/react//">w3school- react tutorial</a>)</p>
+
 <h3> Installation </h3>
 <ul>
   <li>Install NodeJS - head to the <a href="https://nodejs.org/en/">link</a> and then install recomended for most user</li>
@@ -24,10 +24,9 @@ Open VS code, head to terminal and run following commands-
 - [] cd slack-clone<br>
 - [] npm start<br>
 <p>A new browser window will pop up with your newly created React App! If not, open your browser and type <b>localhost:3000</b> in the address bar.</p>
-(to get an idea of what react is? refer <a href="https://www.w3schools.com/react//">w3school- react tutorial</a>)
 
  
-<
+
  
 
 
