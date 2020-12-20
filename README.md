@@ -17,10 +17,10 @@
 </ul>
 ### Seting Up environment
 Open VS code, head to terminal and run following commands-
-- [] npm install -g create-react-app
-- [] npx create-react-app slack-clone
-- [] cd slack-clone
-- [] npm start
+- [] npm install -g create-react-app<br>
+- [] npx create-react-app slack-clone<br>
+- [] cd slack-clone<br>
+- [] npm start<br>
  <p>A new browser window will pop up with your newly created React App! If not, open your browser and type <b>localhost:3000</b> in the address bar.</p>
 
 
