@@ -21,7 +21,7 @@
 <h2>Start Smart</h2>
 Jump into your Vscode, open new terminal and run following command to set up environment-<br>
 <h3> Seting Up environment </h3>
-Open VS code, head to terminal and run following commands-
+Open VS code, head to terminal and run following commands-<br>
 - [] npm install -g create-react-app<br>
 - [] npx create-react-app slack-clone<br>
 - [] cd slack-clone<br>
