@@ -22,7 +22,7 @@ Open VS code, head to terminal and run following commands-
 - [] cd slack-clone<br>
 - [] npm start<br>
 <p>A new browser window will pop up with your newly created React App! If not, open your browser and type <b>localhost:3000</b> in the address bar.</p>
-<b>to get an idea of what react is? refer <a href="https://www.w3schools.com/react//">w3school- react tutorial</a> <b>
+(to get an idea of what react is? refer <a href="https://www.w3schools.com/react//">w3school- react tutorial</a>)
 
  
 
