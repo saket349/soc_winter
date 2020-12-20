@@ -9,7 +9,9 @@
   <li> React allows us to create reusable UI components.</li>
 </ul>
 <h2>Create Slack-clone:</h2>
-<h3> Pre-Requisite </h3>
+<h3>Prerequisites</h3>
+<p>Basic idea of reactjs and javascript is required. </p>
+<h3> Installation </h3>
 <ul>
   <li>Install NodeJS - head to the <a href="https://nodejs.org/en/">link</a> and then install recomended for most user</li>
   <li>Install VSCode - <a href="https://code.visualstudio.com/download">link</a></li>
@@ -25,7 +27,7 @@ Open VS code, head to terminal and run following commands-
 (to get an idea of what react is? refer <a href="https://www.w3schools.com/react//">w3school- react tutorial</a>)
 
  
-
+<
  
 
 
