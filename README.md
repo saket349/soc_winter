@@ -43,7 +43,7 @@ Open VS code, head to terminal and run following commands-<br>
   <li>Go through all provided tutorial (3 days)</li>
   <li>Go through this video link and try to learn, undersatnd and then build your react-clone. Run and try to debugg basic errors yourself. (4 days)</li>
   <li>Add furture css styling to your clone (1 day)</li>
-  <li>Grab a coffee  and Host your cretion using firebase</li>
+  <li>Grab a coffee  and Host your creation using firebase</li>
 </ul>
 
 <h2>Remarks</h2>
