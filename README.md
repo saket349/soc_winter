@@ -10,7 +10,7 @@
 </ul>
 <h2>Create Slack-clone:</h2>
 <h3>Prerequisites</h3>
-<p>Basic idea of reactjs and javascript is required. </p>
+<p>Basic idea of reactjs and javascript is required. Need to have some coding backgroung. Them all you need is a lot of dedication and enthusiasm, need to be calm and patient while your code gives error and must have a learning attitude.</p>
 <h3> Installation </h3>
 <ul>
   <li>Install NodeJS - head to the <a href="https://nodejs.org/en/">link</a> and then install recomended for most user</li>
