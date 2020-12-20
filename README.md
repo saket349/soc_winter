@@ -28,6 +28,7 @@ Open VS code, head to terminal and run following commands-
 - [] cd slack-clone<br>
 - [] npm start<br>
 <p>A new browser window will pop up with your newly created React App! If not, open your browser and type <b>localhost:3000</b> in the address bar.</p><br>
+<p>Look in the slack-clone directory, and you will find an src folder. Inside the src folder, there is a file called App.js; this is where we will working on our slack-clone project. It returns the complete code to an empty tag (root). D</p> 
 
 
  
