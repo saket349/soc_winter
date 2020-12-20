@@ -8,7 +8,7 @@
 </ul>
 <h2>Create Slack-clone:</h2>
 <h3>Prerequisites</h3>
-<p>A basic idea of reactjs and javascript is required. Need to have some coding background. All you need is a lot of dedication and enthusiasm, need to be calm and patient while your code gives an error, and have a learning attitude.<br></p>
+<p>Good knowledege of CSS and Html is must. A basic idea of reactjs and javascript is required. Need to have some coding background. All you need is a lot of dedication and enthusiasm, need to be calm and patient while your code gives an error, and have a learning attitude.<br></p>
 
 <h3> Installation </h3>
 <ul>
