@@ -54,8 +54,9 @@ Open VS code, head to terminal and run following commands-
 </ul>
 
 <hr>
- <centre>Happy learning </centre>
- 
+<div text-aling="centre">
+ <b>Happy learning </b>
+ </div>
 
  
 
