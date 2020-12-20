@@ -33,15 +33,19 @@ Open VS code, head to terminal and run following commands-
 <ul>
   <li> To get an idea of what react is => refer <a href="https://www.w3schools.com/react//"> link</a>)<br> </li>
   <li> React video tutorial => refer <a href="https://youtu.be/dGcsHMXbSOA">link</a></li>
-  <li> Es6 basics => <a href="https://youtu.be/WZQc7RUAg18//">link</a>
+  <li> Es6 basics => <a href="https://youtu.be/WZQc7RUAg18//">link</a></li>
+  <li>(optional) Firebase basics => <a href="https://youtu.be/9kRgVxULbag">link</a></li>
 </ul>
 
 <h2>Procedure</h2>
 <ul>
   <li>Installation and setting up react environment (1 Day)</li>
-  <li>Basic react tutorial (3 days)</li>
-  <li> </li>
+  <li>Go through all provided tutorial (3 days)</li>
+  <li>Go through this video link and try to learn, undersatnd and then build your react-clone (4 days)</li>
+  <li>Add more css styling and editing</li>
+  <li>Host your cretion using firebase</li>
 </ul>
+
 
  
 
