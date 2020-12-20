@@ -31,8 +31,8 @@ Open VS code, head to terminal and run following commands-<br>
 
 <h3>Tutorial</h3>
 <ul>
-  <li> To get an idea of what react is => refer <a href="https://www.w3schools.com/react//"> link</a>)<br> </li>
-  <li> React video tutorial => refer <a href="https://youtu.be/dGcsHMXbSOA">link</a></li>
+  <li> To get an idea of what react is => <a href="https://www.w3schools.com/react//"> link</a><br> </li>
+  <li> React video tutorial => <a href="https://youtu.be/dGcsHMXbSOA">link</a></li>
   <li> Es6 basics => <a href="https://youtu.be/WZQc7RUAg18//">link</a></li>
   <li>(optional) Firebase basics => <a href="https://youtu.be/9kRgVxULbag">link</a></li>
 </ul>
